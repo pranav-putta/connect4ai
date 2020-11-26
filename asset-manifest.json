@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Connect4AI/static/css/main.905297f5.chunk.css",
+    "main.js": "/Connect4AI/static/js/main.e627569d.chunk.js",
+    "main.js.map": "/Connect4AI/static/js/main.e627569d.chunk.js.map",
+    "runtime-main.js": "/Connect4AI/static/js/runtime-main.5ca1e9fb.js",
+    "runtime-main.js.map": "/Connect4AI/static/js/runtime-main.5ca1e9fb.js.map",
+    "static/js/2.72f08a8b.chunk.js": "/Connect4AI/static/js/2.72f08a8b.chunk.js",
+    "static/js/2.72f08a8b.chunk.js.map": "/Connect4AI/static/js/2.72f08a8b.chunk.js.map",
+    "static/js/3.91724c4f.chunk.js": "/Connect4AI/static/js/3.91724c4f.chunk.js",
+    "6278c089341bf424aac1.module.wasm": "/Connect4AI/6278c089341bf424aac1.module.wasm",
+    "static/js/3.91724c4f.chunk.js.map": "/Connect4AI/static/js/3.91724c4f.chunk.js.map",
+    "static/js/4.8094f762.chunk.js": "/Connect4AI/static/js/4.8094f762.chunk.js",
+    "static/js/4.8094f762.chunk.js.map": "/Connect4AI/static/js/4.8094f762.chunk.js.map",
+    "index.html": "/Connect4AI/index.html",
+    "static/css/main.905297f5.chunk.css.map": "/Connect4AI/static/css/main.905297f5.chunk.css.map",
+    "static/js/2.72f08a8b.chunk.js.LICENSE.txt": "/Connect4AI/static/js/2.72f08a8b.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/Connect4AI/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5ca1e9fb.js",
+    "static/js/2.72f08a8b.chunk.js",
+    "static/css/main.905297f5.chunk.css",
+    "static/js/main.e627569d.chunk.js"
+  ]
+}
